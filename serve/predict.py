@@ -90,7 +90,5 @@ def predict_fn(input_data, model):
     #       be a numpy array which contains a single integer which is either 1 or 0
     result = model(data).detach().numpy()
     result = np.array(round(float(result)))
-    print(result)
-    print(type(result))
 
     return result
