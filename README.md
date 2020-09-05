@@ -7,4 +7,4 @@
 
 Example of a correctly classified test review.
 
-[![example image](images/test_review)](images/test_review)
+[![example image](negative-review-example.png)](images/test_review)
