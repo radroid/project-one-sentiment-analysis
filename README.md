@@ -4,3 +4,7 @@
 > **Machine Learning Engineer Nanodegree at Udacity** *sponsored by AWS*
 
 [![powered by](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+
+Example of a correctly classified test review.
+
+[![example image](images/test_review)](images/test_review)
